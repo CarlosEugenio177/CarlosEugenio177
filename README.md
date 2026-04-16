@@ -1,47 +1,52 @@
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=CarlosEugenio177.CarlosEugenio177&"  />
-</div>
+<h1 align="center">Carlos Eugênio</h1>
 
-###
+<p align="center">
+  Software Engineering student at ICEV • Back-end, Data Engineering, and AI/ML
+</p>
 
-<h1 align="center">hey there 👋</h1>
+<p align="center">
+  I build practical solutions with Python, Java, BigQuery, Power BI, and Machine Learning, with a strong focus on data pipelines, back-end systems, and applied AI.
+</p>
 
-###
+---
 
-<h3 align="left">👩‍💻  About Me</h3>
+## About me
 
-###
+- Software Engineering student at ICEV
+- Focused on back-end development, data engineering, and Artificial Intelligence
+- Interested in building scalable systems, analytics pipelines, and real-world AI applications
+- Currently working on projects involving NLP, Transformers, APIs, and marketing/data analytics
 
-<p align="left">- 🔭 I'm a software engineering student at ICEV<br>- 📚 I'm currently learning AI, databases and systems<br>- ⚡ In my free time I develop games</p>
+## Main stack
 
-###
+- **Languages:** Python, Java, SQL, C, C++
+- **Data:** BigQuery, Power BI, ETL, data modeling, analytics
+- **Back-end:** Spring Boot, REST APIs, PostgreSQL
+- **AI/ML:** Transformers, tokenization, NLP, LoRA/QLoRA, model experimentation
+- **Other tools:** Git, GitHub, Docker
 
-<h3 align="left">🛠 Language and tools</h3>
+## Featured interests
 
-###
+- Back-end architecture
+- Data engineering and analytics
+- Applied AI and Machine Learning
+- NLP and Transformer-based systems
+- Business-focused data products
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="r logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="40" alt="godot logo"  />
-</div>
+## Featured repositories
 
-###
+- **Transformer projects**: implementations and experiments with encoder, full Transformer architecture, and training workflows
+- **Tokenizador-BPE**: tokenizer study and implementation work
+- **Geolocalizador**: applied project combining software and practical usability
+- **calculadoramercadodigital**: project oriented to business and metrics
 
-<h3 align="left">🔥   My Stats :</h3>
+## Contact
 
-###
+- **LinkedIn:** [linkedin.com/in/carloseugêniomendespaeslandim](https://www.linkedin.com/in/carloseugêniomendespaeslandim)
+- **Email:** carloseugeniomendes.p.l@gmail.com
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=CarlosEugenio177&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
+---
 
-###
+<p align="center">
+  Always learning, building, and improving practical technology solutions.
+</p>
